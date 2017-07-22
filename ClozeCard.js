@@ -1,5 +1,3 @@
-var BasicCards = require('./BasicCard.js');
-
 function ClozeCard(fullText, cloze) {
 	this.fullText = fullText;
 	this.cloze = cloze;

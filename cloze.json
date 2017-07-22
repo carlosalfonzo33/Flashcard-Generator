@@ -1,1 +1,22 @@
-[{"fullText":"George Washington was the  first president of the United States.","cloze":"Washington"},{"fullText":"Dr.Dre and Jimmy Lovine sold their company (Beats) to Apple. ","cloze":"Apple"},{"fullText":"Jim Henson was the creator of The Muppets Show.","cloze":"Muppets"},{"fullText":"The year 1986, the space shuttle Challenger blew up during take off.","cloze":"1986"},{"fullText":"The Japanese company Hasbro created Transformers.","cloze":"Hasbro"}]
+[
+{
+"fullText":"George Washington was the  first president of the United States.",
+"cloze":"Washington"
+},
+{
+"fullText":"Dr.Dre and Jimmy Lovine sold their company (Beats) to Apple. ",
+"cloze":"Apple"
+},
+{
+"fullText":"Jim Henson was the creator of The Muppets Show.",
+"cloze":"Muppets"
+},
+{
+"fullText":"The year 1986, the space shuttle Challenger blew up during take off.",
+"cloze":"1986"
+},
+{
+"fullText":"The Japanese company Hasbro created Transformers.",
+"cloze":"Hasbro"
+}
+]
