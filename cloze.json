@@ -14,5 +14,9 @@
 	{
 		"partial": "The  ...  Cubs won the world series in 2016.",
 		"answer": "Chicago"
+	},
+	{
+		"partial": "Captain  ...  is a marvel super hero that is a member of the Avengers.",
+		"answer": "America"
 	}
 ]
